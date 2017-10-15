@@ -1,0 +1,16 @@
+/dist/
+build/generated/classes/org/apache/jsp/index_jsp.class
+build/generated/classes/org/apache/jsp/header_jsp.class
+build/generated/src/org/apache/jsp/header_jsp.class.smap
+build/generated/src/org/apache/jsp/header_jsp.java
+build/generated/src/org/apache/jsp/index_jsp.class.smap
+build/generated/src/org/apache/jsp/index_jsp.java
+build/web/WEB-INF/classes/.netbeans_automatic_build
+build/web/WEB-INF/classes/.netbeans_update_resources
+build/generated/classes/org/apache/jsp/header_jsp.class
+build/generated/classes/org/apache/jsp/index_jsp.class
+build/generated/classes/org/apache/jsp/header_jsp.class
+build/generated/classes/org/apache/jsp/index_jsp.class
+build/web/WEB-INF/classes/dao/CategoryDAO.class
+build/web/WEB-INF/classes/model/Category.class
+build/web/WEB-INF/classes/connect/DBConnect.class
