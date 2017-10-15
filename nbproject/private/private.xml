@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Dell/Downloads/JSP%20&amp;%20Servlet-20171015T105740Z-001/JSP%20_%20Servlet/Lesson%202%20Thiết%20kế%20giao%20diện/shop/src/java/connect/DBConnect.java</file>
-            <file>file:/C:/Users/Dell/Downloads/JSP%20&amp;%20Servlet-20171015T105740Z-001/JSP%20_%20Servlet/Lesson%202%20Thiết%20kế%20giao%20diện/shop/web/product.jsp</file>
-            <file>file:/C:/Users/Dell/Downloads/JSP%20&amp;%20Servlet-20171015T105740Z-001/JSP%20_%20Servlet/Lesson%202%20Thiết%20kế%20giao%20diện/shop/web/css/etalage.css</file>
-            <file>file:/C:/Users/Dell/Downloads/JSP%20&amp;%20Servlet-20171015T105740Z-001/JSP%20_%20Servlet/Lesson%202%20Thiết%20kế%20giao%20diện/shop/web/css/style.css</file>
+            <file>file:/C:/Users/Dell/Documents/GitHub/nguyenvietan/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/Dell/Documents/GitHub/nguyenvietan/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/Dell/Documents/GitHub/nguyenvietan/src/java/controller/CartServlet.java</file>
         </group>
     </open-files>
 </project-private>

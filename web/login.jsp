@@ -18,15 +18,21 @@
             <div class="container">
                 <div class="account">
                     <h2 class="account-in">login</h2>
-                    <form>
+                    <form action="UsersServlet" method="POST">
+                        <%if(request.getParameter("error")!=null){%>
+                        <div>
+                            <p style="color:red"><%=request.getParameter("error")%></p>
+                        </div> 
+                        <%}%>
                         <div>
                             <span>Username *</span>
-                            <input type="text">
+                            <input type="text" name="email">
                         </div> 	
                          <div> 
                             <span class="word">Password *</span>
-                            <input type="password">
-                        </div>				
+                            <input type="password" name="pass">
+                        </div>			
+                        <input type="hidden" value="login" name="command">
                         <input type="submit" value="Login"> 
                     </form>
                 </div>

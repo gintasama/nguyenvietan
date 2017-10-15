@@ -12,23 +12,23 @@
 
 /* Etalage container (large thumb + small thumbs): */
 #etalage{
-	display: none;
-	margin-bottom: 10px;
+    display: none;
+    margin-bottom: 10px;
 }
 
 /* Large thumbnail: */
 #etalage .etalage_thumb{
-	background:url(../images/loading.gif) center no-repeat;
-	border: 1px solid #eee;
+    background:url(../images/loading.gif) center no-repeat;
+    border: 1px solid #eee;
 }
 /* Large thumbnail - image (in case you want to add a border around the image within the frame) */
 #etalage .etalage_thumb_image{ }
 
 /* Small thumbnails: */
 #etalage .etalage_small_thumbs li{
-	border: 1px solid #ddd;
-	margin: 10px;
-	padding: 3px;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 3px;
 }
 /* The one on the left that makes them slide */
 #etalage ul li.etalage_smallthumb_first{ }
@@ -41,37 +41,37 @@
 /* Zoomed image area: */
 #etalage .etalage_zoom_area,
 .etalage_zoom_area{
-	background: white url(../images/loading.gif) center no-repeat;
-	border: 1px solid #EEE;
-	padding: 6px;
+    background: white url(../images/loading.gif) center no-repeat;
+    border: 1px solid #EEE;
+    padding: 6px;
 }
 
 /* Magnifier area (thumbnail hovering rectangle): */
 #etalage .etalage_magnifier{
-	background: white;
-	border: 1px solid #eee;
+    background: white;
+    border: 1px solid #eee;
 }
 
 /* Icon that will apear at the left bottom of the large thumbnail (optional): */
 #etalage .etalage_icon{
-	background: url(../images/zoom.png) no-repeat rgba(184, 183, 181, 0.32);
-	width: 104px;
-	height: 104px;
+    background: url(../images/zoom.png) no-repeat rgba(184, 183, 181, 0.32);
+    width: 104px;
+    height: 104px;
 }
 
 /* Hint that will apear at the top right of the large thumbnail (optional): */
 #etalage .etalage_hint{
-	background: url(../images/hint.gif) no-repeat;
-	width: 130px;
-	height: 57px;
+    background: url(../images/hint.gif) no-repeat;
+    width: 130px;
+    height: 57px;
 }
 
 /* Description area (optional) */
 #etalage .etalage_description{
-	background: white;
-	font-style: italic;
-	margin: 10px;
-	padding: 6px 10px;
+    background: white;
+    font-style: italic;
+    margin: 10px;
+    padding: 6px 10px;
 }
 
 /*

@@ -18,7 +18,7 @@ public class DBConnect {
         Connection conn = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/shop", "root", "root");
+            conn = DriverManager.getConnection("jdbc:mysql://node33154-kenhlaptrinh.jelastic.skali.net/shop", "root", "XLSgnk97");
         } catch (Exception e) {
             e.printStackTrace();
         }
