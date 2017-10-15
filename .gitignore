@@ -11,3 +11,13 @@ build/web/login.jsp
 build/web/product.jsp
 build/web/register.jsp
 build/web/WEB-INF/classes/connect/DBConnect.class
+build/web/css/bootstrap.css
+build/web/css/etalage.css
+build/web/css/style.css
+build/web/footer.jsp
+build/web/header.jsp
+build/web/index.jsp
+build/web/login.jsp
+build/web/product.jsp
+build/web/register.jsp
+build/web/WEB-INF/classes/connect/DBConnect.class
