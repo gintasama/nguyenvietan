@@ -28,7 +28,7 @@ public class CategoryDAO {
         ArrayList<Category> list = new ArrayList<>();
         while (rs.next()) {
             Category category = new Category();
-            category.setCategoryID(rs.getInt("category_id"));
+            category.setCategoryID(rs.getLong("category_id"));
             category.setCategoryName(rs.getString("category_name"));
             list.add(category);
         }

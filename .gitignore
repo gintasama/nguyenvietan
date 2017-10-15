@@ -25,3 +25,5 @@ build/generated/src/org/apache/jsp/index_jsp.class.smap
 build/web/WEB-INF/classes/.netbeans_automatic_build
 build/web/WEB-INF/classes/.netbeans_update_resources
 build/web/WEB-INF/classes/connect/DBConnect.class
+build/web/WEB-INF/classes/dao/ProductDAO.class
+build/web/WEB-INF/classes/model/Product.class
